@@ -1,0 +1,11 @@
+# requirements.txt - Equipo 3 | Familia 2: Modelos Basados en Márgenes y Distancias (Instancias)
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+scipy
+joblib
+streamlit
+jupyter
+ipykernel
